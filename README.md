@@ -6,18 +6,24 @@ This is the way.
 #zero-footprint
 
 ## Kanji
-[[Kanji]] is a Japanese writing system that uses characters to represent words or concepts.
-[[零]] https://www.kanshudo.com/kanji/零 https://thekanjimap.com/零 [[LLM]]
+Kanji is a Japanese writing system that uses characters to represent words or concepts.
+零 https://www.kanshudo.com/kanji/零 https://thekanjimap.com/零
 
 Kanji is a system of Japanese writing that uses Chinese characters, known as Hanzi, to represent words and concepts. The history of Kanji dates back to ancient China, where characters were used for record-keeping, literature, and art.
-
-Here's a summary of the history of Kanji:
-[[History of Kanji]]
 
 ### Functionally Complete Language Models
 In logic, a functionally complete set of logical connectives or Boolean operators is one that can be used to express all possible truth tables by combining members of the set into a Boolean expression. A well-known complete set of connectives is { AND, NOT }.
 
-[[NAND]] [[Functional Completeness]] [[Run-length Codes]] [[Red-Black Trees]] [[Temporal Logic]] [[CTL]] [[CFL]]
+fromt-matter:
+- NAND
+- Functional
+- Completeness
+- Run-length Codes
+- Red-Black Trees
+- Temporal Logic
+- CTL
+- CFL
+- LLM
 
 One of the key advantages of run-length codes is that they can take advantage of the repetitive patterns found in many types of data. By representing these sequences as a single code, rather than encoding each individual value, you can significantly reduce the overall size of your compressed data.
 
@@ -40,15 +46,16 @@ However, this assumes that the most significant bit is reserved for indicating t
 In summary, the minimum number of bits required to represent a kanji character in RAM when compressed with RLC would be 1 or 9 bits, depending on whether you reserve a separate bit for indicating run lengths.
 
 ### Decision Making
-[[OODA]] #OODA-loop #OODA #ooda #ooda-loop 
+OODA-loop #ooda-loop 
 
-R0N1N [[一]]
-samurai = [[侍]].
+R0N1N 
+一 means '1'.
+侍 means 'samurai'.
 
 decision =  OODA-loop #input #pattern-matching.
 pattern-matching = #pattern + #matching = #pattern-matching .
 
-#### OODA Loop
+#### OODA-Loop
 #ooda-loop 
 Observe = #observe 
 Orient = #orient 
@@ -58,13 +65,11 @@ Act = #act
 OODA = #OODA 
 OODA-loop = #OODA  + #loop = #OODA-loop = #ooda-loop 
 OODA-loop = #OODA-loop 
-OODA-loop = loop #observe #orient #decide #act = #OODA-loop 
--- #prefix loop 
-OODA-loop = #observe #orient #decide #act loop = #ooda-loop 
--- #postfix loop 
+OODA-loop = loop #observe #orient #decide #act = #OODA-loop -- #prefix loop 
+OODA-loop = #observe #orient #decide #act loop = #ooda-loop -- #postfix loop 
 Observe #input = #observe based on #input
 
--- Note for Orient to function properly with no side-effects, context should have input encoded if it is not passed explicitly. Making it ambiguous. It is better to keep explicit track of the input in order to perform an inductive proof using the weakest precondition to validate the code.
+%% Note for Orient to function properly with no side-effects, context should have input encoded if it is not passed explicitly. Making it ambiguous. It is better to keep explicit track of the input in order to perform an inductive proof using the weakest precondition to validate the code. %%
 
 OODA-Loop
 Orient #context = #orient based on #context 
@@ -83,21 +88,21 @@ Act #plan-of-action = new #situation
 
 
 ## Virtual GPU
-differential equations #differential-equations 
-linear algebra #linear-algebra 
-vector calculus #vector-calculus 
-NAND #NAND
+front-matter:
+- differential equations #differential-equations 
+- linear algebra #linear-algebra
+- vector calculus #vector-calculus
+- NAND #NAND
 
 Virtual GPU can perform the necessary vector calculus without the specialized graphics processors. This brings the price of compute down. Now, this allows typical consumers old hardware to run on LLM based compute. Linear Algebra and Differential Equations provide equivalent mathematical language models for the same problem space. The primary difference is the notation of each mathematical language model. This means that these language models provide a basis to discuss AI-based compute. This turns each NAND gate into a digital representation of the neuron that runs on bare-metal. This is a paradigm shift.
 
-#vGPU #GPU 
-# Attention-based Design
-[[Candles]] is a [[Concept-oriented programming language]] that uses #Analogy to provide not just context but also situational awareness. 
-## AI Programming Language
+# AI Programming Language
+Candles is a Concept-oriented programming language that uses #Analogy to provide not just context but also situational awareness. 
+## Attention-based Design
 The AI Programming language uses #attention to manage the #focus of the AI in order to derive the generation of assisted solutions.
 #programming #language #language-creation #self-attention #self-defense
 
-Haskell is an #atomic programming language that utilizes [[High-Order Functions]].
+Haskell is an #atomic programming language that utilizes High-Order Functions.
 
 ### Comments
 #comment -- This is a comment
@@ -162,8 +167,6 @@ frame of reference = #frame-of-reference
 # Gamification of doing work.
 The system was built with the human in mind. With this programming language anyone can program AI in their native language. You just need to know how to #read and #write.
 
-# Industries
-[[Research/automotive|automotive]] [[Sources/automotive|automotive]]
-[[education]] [[Research/education|education]]
+
 
 thanks [礼](https://www.kanshudo.com/search?q=thanks)
