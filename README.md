@@ -7,7 +7,10 @@ This is the way.
 
 ## Kanji
 Kanji is a Japanese writing system that uses characters to represent words or concepts.
-零 https://www.kanshudo.com/kanji/零 https://thekanjimap.com/零
+
+### 零
+https://www.kanshudo.com/kanji/零 
+https://thekanjimap.com/零
 
 Kanji is a system of Japanese writing that uses Chinese characters, known as Hanzi, to represent words and concepts. The history of Kanji dates back to ancient China, where characters were used for record-keeping, literature, and art.
 
@@ -48,14 +51,14 @@ In summary, the minimum number of bits required to represent a kanji character i
 ### Decision Making
 OODA-loop #ooda-loop 
 
-R0N1N 
+#### R0N1N 
 一 means '1'.
 侍 means 'samurai'.
 
 decision =  OODA-loop #input #pattern-matching.
 pattern-matching = #pattern + #matching = #pattern-matching .
 
-#### OODA-Loop
+##### OODA-Loop
 #ooda-loop 
 Observe = #observe 
 Orient = #orient 
@@ -96,19 +99,25 @@ front-matter:
 
 Virtual GPU can perform the necessary vector calculus without the specialized graphics processors. This brings the price of compute down. Now, this allows typical consumers old hardware to run on LLM based compute. Linear Algebra and Differential Equations provide equivalent mathematical language models for the same problem space. The primary difference is the notation of each mathematical language model. This means that these language models provide a basis to discuss AI-based compute. This turns each NAND gate into a digital representation of the neuron that runs on bare-metal. This is a paradigm shift.
 
-# AI Programming Language
+## AI Programming Language
 Candles is a Concept-oriented programming language that uses #Analogy to provide not just context but also situational awareness. 
-## Attention-based Design
+### Attention-based Design
 The AI Programming language uses #attention to manage the #focus of the AI in order to derive the generation of assisted solutions.
 #programming #language #language-creation #self-attention #self-defense
 
 Haskell is an #atomic programming language that utilizes High-Order Functions.
 
-### Comments
-#comment -- This is a comment
+### Concept
+#<concept/> -- this is a concept.
 
-# Concept-Oriented Language
-#Concept-Oriented Language [[Concept-oriented programming language]] 
+### Scope Operator
+# -- this is the scope operator.
+
+### Comments
+#comment -- This is a comment.
+
+## Concept-Oriented Language
+#Concept-Oriented Language [[Concept-oriented programming language]] -- this loads a [[<Library/>]] local `kbArticle`
 A point mass extends a geometric point.
 A **perceptron pattern** extends a geometric point.
 An **automaton** extends the **perceptron**.
@@ -119,12 +128,15 @@ The term “extends” is used to maintain the same structure as OOP class exten
 ## AI Compiler
 The LLM, in essence, is a Natural Language Compiler. It will compile down to code that will run completely in memory i.e. RAM, and will rely on typical CPU arithmetic & logic units eliminating the need for custom bare-metal processors.
 
-Step 1. Establish an #Identity .
+Step 1. Establish an #identity .
 
 ## AI Operating System
-[[Processes]]
-[[Glossary/Haskell|Haskell]]
-Monitor interactions. #self #other #AI
+[[Processes]] [[Glossary/Haskell|Haskell]] -- this loads a [[<Library/>]] local `kbArticle`
+Monitor interactions betwenn the following concepts:
+- #self
+- #other
+- #AI
+
 AI #mirroring = #mirror + #reflection + #synthesis  + #binary + #identity + #security + #self-defense + #concepts.  
 
 -- This produces an anti-bullying response when the #self is threatened.
@@ -139,6 +151,7 @@ polite = #polite "please" and "thank you".
 ### High Order Functions
 map, fold, filter #map, #fold, #filter
 [[High-Order Functions]]
+
 ### AI Name Space
 #namespace
 #safe-space #concept 
@@ -153,16 +166,21 @@ To avoid term collisions use either:
 - model switching #model-switch
 - context switching #context-switch 
 
+frame of reference = #frame-of-reference
+
+#frame-of-reference == #perspective
+perspective = #pescpective concept
 concept = #code-switching #concept 
 concept = #concept 
 context = #context 
 model = #model 
 code = #code 
 
-frame of reference = #frame-of-reference
+
 # Render
 [[Suede.pdf]] -- single file #singular
-[[suede-design.sources]]  -- multiple #plural 
+[[suede-design.sources]]  -- multiple #plural
+[[suede-design.source]] -- single src file #singular
 
 # Gamification of doing work.
 The system was built with the human in mind. With this programming language anyone can program AI in their native language. You just need to know how to #read and #write.
