@@ -111,7 +111,7 @@ Haskell is an #atomic programming language that utilizes High-Order Functions.
 #<concept/> -- this is a concept.
 
 ### Scope Operator
-# -- this is the scope operator.
+`#` -- this is the scope operator. As in # scope i.e. an HTML Heading.
 
 ### Comments
 #comment -- This is a comment.
