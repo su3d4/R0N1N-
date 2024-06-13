@@ -53,6 +53,7 @@ OODA-loop #ooda-loop
 
 #### R0N1N 
 一 means '1'.
+
 侍 means 'samurai'.
 
 decision =  OODA-loop #input #pattern-matching.
@@ -132,7 +133,7 @@ Step 1. Establish an #identity .
 
 ## AI Operating System
 [[Processes]] [[Glossary/Haskell|Haskell]] -- this loads a [[<Library/>]] local `kbArticle`
-Monitor interactions betwenn the following concepts:
+Monitor interactions between the following concepts:
 - #self
 - #other
 - #AI
