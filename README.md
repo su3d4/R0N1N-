@@ -119,12 +119,18 @@ Haskell is an #atomic programming language that utilizes High-Order Functions.
 
 ## Concept-Oriented Language
 #Concept-Oriented Language [[Concept-oriented programming language]] -- this loads a [[<Library/>]] local `kbArticle`
+
 A point mass extends a geometric point.
+
 A **perceptron pattern** extends a geometric point.
+
 An **automaton** extends the **perceptron**.
+
 A **neuron** extends the **automaton**.
 
-The term “extends” is used to maintain the same structure as OOP class extension. I’ve also used the term “perceptron pattern” to describe how a perceptron operates in a different domain than a geometric point, while still building upon the concept of extension.
+The term **“extends”** is used to maintain the same structure as OOP class extension.
+
+I’ve also used the term **“perceptron pattern”** to describe how a perceptron operates in a different domain than a geometric point, while still building upon the concept of extension.
 
 ## AI Compiler
 The LLM, in essence, is a Natural Language Compiler. It will compile down to code that will run completely in memory i.e. RAM, and will rely on typical CPU arithmetic & logic units eliminating the need for custom bare-metal processors.
