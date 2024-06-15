@@ -1,4 +1,4 @@
-We are developing a set of temporal and spatial Haskell libraries, dubbed HaskTimeSpace, is a project that can have significant implications for various domains, including physics, biology, and computer science. Here's a high-level outline to get you started:
+We are developing a set of temporal and spatial Haskell libraries. This is a project that can have significant implications for various domains, including physics, biology, and computer science. Here's a high-level outline to get you started:
 
 **I. Temporal Libraries (HaskTime)**
 
